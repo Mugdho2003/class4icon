@@ -1,0 +1,71 @@
+*{
+    height: 20px;
+    width: 350px;
+margin: 0;
+padding: 0;
+box-sizing: border-box
+
+}
+body{
+    background: url(../img/1.jpeg);
+   
+   
+    
+}
+.form{
+    width: 400px;
+    height: 600px;
+    background-color: violet;
+    padding: 20px;
+    border-radius: 20px;
+    border: 2x solid transparent;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    box-shadow: 4px 5px 23px 0px rgb(12, 12, 12);
+}
+
+.input{
+    padding: 10px;   
+}
+::placeholder{
+    color: gray;
+    font-size: 18px;
+}
+.user{
+    width: 365px;
+    height: 50px;
+    margin: auto;
+    border: 2px solid papayawhip;
+    border-radius: 10px;
+    margin-top: 3px;
+    margin-bottom: 5px;
+}
+.new{
+    background: 25px;
+    background-color:yellowgreen;
+    text-align: center;
+    font-size: 15px;
+border-radius: 8px;
+font-weight: 600;
+padding: 0;
+margin-bottom: 10px;
+}
+.new a{
+    text-decoration: none;
+    color-adjust: ;
+}
+
+.bng{
+    text-align: center;
+    font-weight: 600;
+    border-radius: 80px;
+    background-color: yellow;
+    border-radius: 15px;
+    padding: 15px;
+   display: block;
+}
+h1{
+    background-attachment: red;
+}
